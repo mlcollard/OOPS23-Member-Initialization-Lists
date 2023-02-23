@@ -18,7 +18,7 @@ private:
 
 // constructor
 A::A() {
-    data.fill(10000, ' ');
+    data.assign(10000, 0);
     n = 5;
 }
 

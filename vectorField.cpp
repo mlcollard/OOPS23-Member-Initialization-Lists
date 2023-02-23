@@ -18,7 +18,7 @@ private:
 // constructor
 A::A() {
     // size data to 10,000 elements
-    data.resize(10000)
+    data.resize(10000);
 }
 
 int main() {
